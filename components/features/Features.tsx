@@ -5,7 +5,7 @@ import FeaturesItem from "../featuresItem";
 const Features = () => {
   return (
     <section
-      className="border-2 border-red-500  flexCenter flex-col
+      className=" flexCenter flex-col
     overflow-hidden  bg-feature-bg bg-center bg-no-repeat py-24 "
     >
       <div
